@@ -294,7 +294,7 @@ Filtered HTML input format but be cautious.
 There are `a lot of Drupal security modules`_. Depending on your needs you will
 want to add more or less than those listed here.
 
-`Account Sentinal`_
+`Account Sentinal`_ (7)
   Monitors configurable set of roles and/or elevated accounts for changes. Will detect 
   any changes made to roles or to users with such roles and notify you.
 
